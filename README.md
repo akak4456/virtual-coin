@@ -1,3 +1,5 @@
+이 프로그램은 학습용으로 리액트 프로그래밍 정석 책을 참조하였습니다
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
