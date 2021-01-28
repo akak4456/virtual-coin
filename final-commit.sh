@@ -1,4 +1,4 @@
-echo $1
+echo $#
 git add .
 git commit -m "final commit"
 git push origin master
