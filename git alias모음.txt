@@ -6,3 +6,5 @@ git fc
 
 git fc -m "message"
 :자동 커밋(커밋할 때 메시지 지정)+push
+
+명령어 모음
