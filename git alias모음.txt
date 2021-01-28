@@ -1,0 +1,8 @@
+git ac
+:자동 커밋
+
+git fc
+:자동 커밋+push
+
+git fc -m "message"
+:자동 커밋(커밋할 때 메시지 지정)+push

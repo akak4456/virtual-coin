@@ -1,4 +1,3 @@
-echo $#
 git add .
 if [ $# -eq 2 ];
 then
